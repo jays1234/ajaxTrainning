@@ -40,6 +40,7 @@
     <body>
         <h1>Hello World!</h1>
            <input id="name"/>
+           test
            <button value="click me" id="button" onclick="ajax()">Click me</button>
     </body>
 </html>
